@@ -1,7 +1,8 @@
 import React from 'react';
 import './App.css';
-import {Cards,Chart,CountryPicker} from './components';
+import {Cards,Chart,CountryPicker,FooterPage} from './components';
 import {fetchData} from './api';
+
 import styles from './App.css';
 import imageCovid from './images/corona.jpg'; 
 
@@ -32,6 +33,7 @@ class App extends React.Component{
 
 <Chart data={data} country={country} />
 
+<FooterPage  />
       </div>
     )
   }
