@@ -2,6 +2,7 @@
   "name": "coronareact",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://mustapha-lourika.github.io/Corona-Tracker-Reactjs",
   "dependencies": {
     "@material-ui/core": "^4.10.2",
     "@testing-library/jest-dom": "^4.2.4",
@@ -11,7 +12,6 @@
     "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
     "gh-pages": "^3.0.0",
-    "homepage": "https://mustapha-lourika.github.io/Corona-Tracker-Reactjs",
     "react": "^16.13.1",
     "react-chartjs-2": "^2.9.0",
     "react-countup": "^4.3.3",
